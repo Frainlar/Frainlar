@@ -10,12 +10,11 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://edsonfrainlar.com/)](https://edsonfrainlar.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=Frainlar.Frainlar)
 
-### 📫⚡ Social ⚡:
+### <b>⚡📈 My GitHub Statistics 📈⚡</b>
 
 <p align="left">
-<a href="https://twitter.com/EdsonFrainlar/" height="30px" width="30px" target="_blank"  rel="noreferrer noopener" title="twitter" aria-label="twitter"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/twitter.svg" alt="twitter" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/edson-frainlar/"  height="30px" width="30px"  target="_blank"  rel="noreferrer noopener" title="Linkedin" aria-label="Linkedin"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/9283958/ahmad-dalao" height="30px" width="30px" target="_blank" rel="noreferrer noopener" title="stackoverflow " aria-label="stackoverflow"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/stack-overflow.svg" alt="stackoverflow" height="30" width="30" /></a>
+<img width="400" align="left" height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frainlar&" alt="Frainlar" />
+<img width="400" align="left" height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Frainlar&show_icons=true&locale=en" alt="Frainlar" />
 </p>
 
 ### ⚡Front End⚡:
@@ -27,13 +26,35 @@
 <a href="https://angular.io/" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="60" height="60"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/> </a>
 <a href="https://nextjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="Next.js" width="60" height="60"/> </a>
+<a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Next.js" width="60" height="60"/> </a>
+<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original-wordmark.svg" alt="Next.js" width="60" height="60"/> </a>
 </p>
 
 ### ⚡Back End⚡:
 
 <p align="left"> 
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="TypeScript" width="60" height="60"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="60" height="60"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/> </a>
+<a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="60" height="60"/> </a>
+<a href="https://graphql.org/" target="_blank"> <img src="https://hackernoon.com/hn-images/1*Fz_DTbJptm_S7GccttSFVw.png" alt="GraphQL" width="60" height="60"/> </a>
+<a href="https://developer.chrome.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original-wordmark.svg" alt="Chrome" width="60" height="60"/> </a>
+<a href="https://www.electronjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original-wordmark.svg" alt="Electron" width="60" height="60"/> </a>
+<a href="https://mochajs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha Test" width="60" height="60"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/> </a>
+<a href="https://nestjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="NestJS" width="60" height="60"/> </a>
+</p>
+
+### ⚡Tools & Platforms⚡:
+
+<p align="left"> 
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="60" height="60"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/> </a>
+<a href="https://www.git.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Docker" width="60" height="60"/> </a>
+<a href="https://www.cloud.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Docker" width="60" height="60"/> </a>
+<a href="https://jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="60" height="60"/> </a>
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="60" height="60"/> </a>
+<a href="https://nginx.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="60" height="60"/> </a>
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
