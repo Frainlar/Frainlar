@@ -4,11 +4,11 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/EdsonFrainlar?label=Follow)](https://twitter.com/intent/follow?screen_name=EdsonFrainlar)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+[![Linkedin: edson-frainlar](https://img.shields.io/badge/edson-frainlar?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edson-frainlar/)](https://www.linkedin.com/in/edson-frainlar/)
+![GitHub followers](https://img.shields.io/github/followers/Frainlar?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://edsonfrainlar.com/)](https://edsonfrainlar.com/)
+![](https://visitor-badge.glitch.me/badge?page_id=Frainlar.Frainlar)
+![Waka Readme](https://github.com/Frainlar/Frainlar/workflows/Waka%20Readme/badge.svg)
 
 👇 Hit in your console or terminal to connect with me.
 
