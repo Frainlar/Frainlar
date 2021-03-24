@@ -8,14 +8,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Frainlar?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://edsonfrainlar.com/)](https://edsonfrainlar.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=Frainlar.Frainlar)
-![Waka Readme](https://github.com/Frainlar/Frainlar/workflows/Waka%20Readme/badge.svg)
 
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
