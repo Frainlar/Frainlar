@@ -9,6 +9,14 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://edsonfrainlar.com/)](https://edsonfrainlar.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=Frainlar.Frainlar)
 
+### 📫⚡ Social ⚡:
+
+<p align="left">
+<a href="https://twitter.com/EdsonFrainlar/" height="40px" width="40px" target="_blank"  rel="noreferrer noopener" title="twitter" aria-label="twitter"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/twitter.svg" alt="twitter" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/edson-frainlar/"  height="40px" width="40px"  target="_blank"  rel="noreferrer noopener" title="Linkedin" aria-label="Linkedin"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/9283958/ahmad-dalao" height="40px" width="40px" target="_blank" rel="noreferrer noopener" title="stackoverflow " aria-label="stackoverflow"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/stack-overflow.svg" alt="stackoverflow" height="40" width="40" /></a>
+</p>
+<br />
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -39,11 +47,4 @@ const anmol = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-### 📫⚡ Social ⚡:
 
-<p align="left">
-<a href="https://twitter.com/EdsonFrainlar/" height="40px" width="40px" target="_blank"  rel="noreferrer noopener" title="twitter" aria-label="twitter"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/twitter.svg" alt="twitter" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/edson-frainlar/"  height="40px" width="40px"  target="_blank"  rel="noreferrer noopener" title="Linkedin" aria-label="Linkedin"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/9283958/ahmad-dalao" height="40px" width="40px" target="_blank" rel="noreferrer noopener" title="stackoverflow " aria-label="stackoverflow"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/stack-overflow.svg" alt="stackoverflow" height="40" width="40" /></a>
-</p>
-<br />
