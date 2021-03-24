@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/edson-frainlar/"  height="30px" width="30px"  target="_blank"  rel="noreferrer noopener" title="Linkedin" aria-label="Linkedin"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/9283958/ahmad-dalao" height="30px" width="30px" target="_blank" rel="noreferrer noopener" title="stackoverflow " aria-label="stackoverflow"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/stack-overflow.svg" alt="stackoverflow" height="30" width="30" /></a>
 </p>
-<br />
+
 ### ⚡Design Systems⚡:
 <p align="left"> 
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.128b6e12eb85d013bc9f80a917f57efe.svg" alt="tailwindCSS" width="50" height="50"/> </a> 
@@ -24,7 +24,7 @@
 <a href="https://styled-components.com/" target="_blank"> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="styled components" width="50" height="50"/> </a> 
 <a href="https://angular.io/" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50"/> </a> 
 </p>
-<br />
+
 ### ⚡Front End Frameworks⚡:
 <p align="left"> 
 <a href="https://angular.io/" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50"/> </a>
