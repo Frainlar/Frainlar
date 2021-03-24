@@ -19,7 +19,6 @@
 <br />
 
 ### ⚡Languages and Tools⚡:
-<br />
 <p align="left"> 
 
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.128b6e12eb85d013bc9f80a917f57efe.svg" alt="tailwindCSS" width="30" height="30"/> </a> 
