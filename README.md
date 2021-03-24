@@ -12,9 +12,9 @@
 ### 📫⚡ Social ⚡:
 
 <p align="left">
-<a href="https://twitter.com/EdsonFrainlar/" height="40px" width="40px" target="_blank"  rel="noreferrer noopener" title="twitter" aria-label="twitter"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/twitter.svg" alt="twitter" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/edson-frainlar/"  height="40px" width="40px"  target="_blank"  rel="noreferrer noopener" title="Linkedin" aria-label="Linkedin"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/9283958/ahmad-dalao" height="40px" width="40px" target="_blank" rel="noreferrer noopener" title="stackoverflow " aria-label="stackoverflow"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/stack-overflow.svg" alt="stackoverflow" height="40" width="40" /></a>
+<a href="https://twitter.com/EdsonFrainlar/" height="30px" width="30px" target="_blank"  rel="noreferrer noopener" title="twitter" aria-label="twitter"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/twitter.svg" alt="twitter" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/edson-frainlar/"  height="30px" width="30px"  target="_blank"  rel="noreferrer noopener" title="Linkedin" aria-label="Linkedin"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/9283958/ahmad-dalao" height="30px" width="30px" target="_blank" rel="noreferrer noopener" title="stackoverflow " aria-label="stackoverflow"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/stack-overflow.svg" alt="stackoverflow" height="30" width="30" /></a>
 </p>
 <br />
 
