@@ -18,9 +18,8 @@
 </p>
 <br />
 
-### ⚡Languages and Tools⚡:
+### ⚡Design Systems⚡:
 <p align="left"> 
-
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.128b6e12eb85d013bc9f80a917f57efe.svg" alt="tailwindCSS" width="50" height="50"/> </a> 
 <a href="https://ant.design/" target="_blank"> <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="50" height="50"/> </a> 
 <a href="https://styled-components.com/" target="_blank"> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="styled components" width="50" height="50"/> </a> 
