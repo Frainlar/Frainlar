@@ -10,6 +10,18 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://edsonfrainlar.com/)](https://edsonfrainlar.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=Frainlar.Frainlar)
 
+### ⚡Tools & Platforms⚡:
+
+<p align="left"> 
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="60" height="60"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/> </a>
+<a href="https://www.git.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Docker" width="60" height="60"/> </a>
+<a href="https://www.cloud.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Docker" width="60" height="60"/> </a>
+<a href="https://jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="60" height="60"/> </a>
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="60" height="60"/> </a>
+<a href="https://nginx.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="60" height="60"/> </a>
+</p>
+
 ### ⚡Front End⚡:
 
 <p align="left"> 
@@ -36,18 +48,6 @@
 <a href="https://mochajs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha Test" width="60" height="60"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/> </a>
 <a href="https://nestjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="NestJS" width="60" height="60"/> </a>
-</p>
-
-### ⚡Tools & Platforms⚡:
-
-<p align="left"> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="60" height="60"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/> </a>
-<a href="https://www.git.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Docker" width="60" height="60"/> </a>
-<a href="https://www.cloud.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Docker" width="60" height="60"/> </a>
-<a href="https://jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="60" height="60"/> </a>
-<a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="60" height="60"/> </a>
-<a href="https://nginx.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="60" height="60"/> </a>
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
