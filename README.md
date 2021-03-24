@@ -30,7 +30,7 @@
 <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="60" height="60"/> </a>
 <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/> </a>
 <a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="60" height="60"/> </a>
-<a href="https://graphql.org/" target="_blank"> <img src="https://hackernoon.com/hn-images/1*Fz_DTbJptm_S7GccttSFVw.png" alt="GraphQL" width="60" height="60"/> </a>
+<a href="https://graphql.org/" target="_blank"> <img src="https://hackernoon.com/hn-images/1*Fz_DTbJptm_S7GccttSFVw.png" alt="GraphQL" width="80" height="60"/> </a>
 <a href="https://developer.chrome.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original-wordmark.svg" alt="Chrome" width="60" height="60"/> </a>
 <a href="https://www.electronjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original-wordmark.svg" alt="Electron" width="60" height="60"/> </a>
 <a href="https://mochajs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha Test" width="60" height="60"/> </a>
