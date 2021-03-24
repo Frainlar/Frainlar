@@ -17,32 +17,26 @@
 <a href="https://stackoverflow.com/users/9283958/ahmad-dalao" height="30px" width="30px" target="_blank" rel="noreferrer noopener" title="stackoverflow " aria-label="stackoverflow"><img src="https://github.com/AhmadDalao/AhmadDalao/blob/main/stack-overflow.svg" alt="stackoverflow" height="30" width="30" /></a>
 </p>
 
-### ⚡Design Systems⚡:
+### ⚡Front End⚡:
 <p align="left"> 
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.128b6e12eb85d013bc9f80a917f57efe.svg" alt="tailwindCSS" width="50" height="50"/> </a> 
 <a href="https://ant.design/" target="_blank"> <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="50" height="50"/> </a> 
 <a href="https://styled-components.com/" target="_blank"> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="styled components" width="50" height="50"/> </a> 
 <a href="https://angular.io/" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50"/> </a> 
-</p>
-
-### ⚡Front End Frameworks⚡:
-<p align="left"> 
-<a href="https://angular.io/" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/> </a>
 <a href="https://nextjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="Next.js" width="60" height="50"/> </a>
 </p>
 
-### ⚡Back End Frameworks⚡:
+### ⚡Back End⚡:
 <p align="left"> 
-<a href="https://angular.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Angular" width="60" height="50"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="Next.js" width="50" height="50"/> </a>
+<a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--kh56iRdU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7c7w2ydov91nv762l4c4.png" alt="TypeScript" width="50" height="50"/> </a>
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const Frainlar = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript"],
     askMeAbout: ["web dev", "tech", "app dev", "anthropology"],
