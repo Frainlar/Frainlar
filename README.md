@@ -12,16 +12,12 @@
 <p>
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="angular universal" src="https://img.shields.io/badge/-Angular Universal-00ACC1?style=flat-square&logo=angularuniversal&logoColor=white" />
-</p>
-<p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Create React App" src="https://img.shields.io/badge/-Create React App-09D3AC?style=flat-square&logo=createreactapp&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="nextjs" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
   <img alt="hexo" src="https://img.shields.io/badge/-Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white" />
-</p>
-<p>
   <img alt="Handlebars" src="https://img.shields.io/badge/-Handlebars.js-000000?style=flat-square&logo=handlebarsdotjs&logoColor=white" />
   <img alt="ember" src="https://img.shields.io/badge/-Ember.js-E04E39?style=flat-square&logo=emberdotjs&logoColor=white" />
   <img alt="Ghost" src="https://img.shields.io/badge/-Ghost CMS-15171A?style=flat-square&logo=ghost&logoColor=white" />
