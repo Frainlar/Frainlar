@@ -16,17 +16,19 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="nextjs" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Create React App" src="https://img.shields.io/badge/-Create React App-09D3AC?style=flat-square&logo=createreactapp&logoColor=white" />
-  <img alt="Ghost" src="https://img.shields.io/badge/-Ghost CMS-15171A?style=flat-square&logo=ghost&logoColor=white" />
   <img alt="Handlebars" src="https://img.shields.io/badge/-Handlebars.js-000000?style=flat-square&logo=handlebarsdotjs&logoColor=white" />
+  <img alt="ember" src="https://img.shields.io/badge/-Ember.js-E04E39?style=flat-square&logo=emberdotjs&logoColor=white" />
+  
+  <img alt="Ghost" src="https://img.shields.io/badge/-Ghost CMS-15171A?style=flat-square&logo=ghost&logoColor=white" />
   <img alt="amp" src="https://img.shields.io/badge/-AMP-005AF0?style=flat-square&logo=amp&logoColor=white" />
   <img alt="pwa" src="https://img.shields.io/badge/-PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
   <img alt="electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-  <img alt="ember" src="https://img.shields.io/badge/-Ember.js-E04E39?style=flat-square&logo=emberdotjs&logoColor=white" />
+  
   <img alt="hexo" src="https://img.shields.io/badge/-Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  
+	
+  <img alt="Create React App" src="https://img.shields.io/badge/-Create React App-09D3AC?style=flat-square&logo=createreactapp&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Ant Design" src="https://img.shields.io/badge/-Ant Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
   <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra UI-319795?style=flat-square&logo=chakraui&logoColor=white" />
   <img alt="algolia" src="https://img.shields.io/badge/-Algolia-5468ff?style=flat-square&logo=algolia&logoColor=white" />
