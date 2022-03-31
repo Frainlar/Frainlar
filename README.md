@@ -26,6 +26,12 @@
   <img alt="electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
 </p>
 <p>
+  <img alt="Ant Design" src="https://img.shields.io/badge/-Ant Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
+  <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra UI-319795?style=flat-square&logo=chakraui&logoColor=white" />	
+  <img alt="Material Design" src="https://img.shields.io/badge/-Material Design-757575?style=flat-square&logo=materialdesign&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+<p>
   <img alt="sap" src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
   
   
@@ -37,18 +43,17 @@
   
 	
 
-  <img alt="Ant Design" src="https://img.shields.io/badge/-Ant Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
-  <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra UI-319795?style=flat-square&logo=chakraui&logoColor=white" />
+  
   <img alt="algolia" src="https://img.shields.io/badge/-Algolia-5468ff?style=flat-square&logo=algolia&logoColor=white" />
   <img alt="Apache ECharts" src="https://img.shields.io/badge/-Apache E Charts-5468ff?style=flat-square&logo=apacheecharts&logoColor=white" />
   <img alt="CK Editor" src="https://img.shields.io/badge/-CK Editor 4-0287D0?style=flat-square&logo=ckeditor4&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="hyper" src="https://img.shields.io/badge/-Hyper-000000?style=flat-square&logo=hyper&logoColor=white" />
   <img alt="i18next" src="https://img.shields.io/badge/-i18next-26A69A?style=flat-square&logo=i18next&logoColor=white" />
-  <img alt="Material Design" src="https://img.shields.io/badge/-Material Design-757575?style=flat-square&logo=materialdesign&logoColor=white" />
+  
   <img alt="WebRTC" src="https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
   <img alt="WebdriverIO" src="https://img.shields.io/badge/-WebdriverIO-EA5906?style=flat-square&logo=webdriverio&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  
   <img alt="Strapi CMS" src="https://img.shields.io/badge/-Strapi CMS-2F2E8B?style=flat-square&logo=strapi&logoColor=white" />
   
   <img alt="Appwrite" src="https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white" />
