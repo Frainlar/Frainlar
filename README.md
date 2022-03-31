@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<p>Welcome to my page! </br> I'm Edson Frainlar, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/> <b>Chennai, India</b>.<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p> 
+<p>Welcome to my page! </br> I'm Edson Frainlar, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/> <b>Chennai, India</b>.<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="120"> </p> 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/EdsonFrainlar?label=Follow)](https://twitter.com/intent/follow?screen_name=EdsonFrainlar)
 [![Linkedin: edson-frainlar](https://img.shields.io/badge/edson-frainlar?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edson-frainlar/)](https://www.linkedin.com/in/edson-frainlar/)
