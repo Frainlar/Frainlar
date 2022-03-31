@@ -17,7 +17,7 @@
 ### <b>⚡📈 My GitHub Statistics 📈⚡</b>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=frainlar&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 <p align="left">
