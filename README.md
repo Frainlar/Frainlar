@@ -31,7 +31,12 @@
   <img alt="Material Design" src="https://img.shields.io/badge/-Material Design-757575?style=flat-square&logo=materialdesign&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
-
+<p>Databases</p>
+<p>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Neo4j" src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
 <p>Libraries</p>
 <p>
   <img alt="Apache ECharts" src="https://img.shields.io/badge/-Apache E Charts-5468ff?style=flat-square&logo=apacheecharts&logoColor=white" />
@@ -54,12 +59,7 @@
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 </p>
-<p>Databases</p>
-<p>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Neo4j" src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</p>
+
 <p>DevOps</p>
 <p>
   <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
