@@ -9,7 +9,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Frainlar.Frainlar)
 
 <h3>⚡Things I code with⚡</h3>
-<p>Front End Frameworks</p>
+<p>🪄Front End Frameworks</p>
 <p>
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="angular universal" src="https://img.shields.io/badge/-Angular Universal-00ACC1?style=flat-square&logo=angularuniversal&logoColor=white" />
@@ -31,13 +31,13 @@
   <img alt="Material Design" src="https://img.shields.io/badge/-Material Design-757575?style=flat-square&logo=materialdesign&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
-<p>Databases</p>
+<p>📁Databases</p>
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Neo4j" src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
-<p>Platforms & Tools</p>
+<p>🧩Platforms & Tools</p>
 <p>
   <img alt="sap" src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
@@ -74,7 +74,7 @@
   <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
 </p>
 
-<p>DevOps, Infra & Security</p>
+<p>💻DevOps, Infra & Security</p>
 <p>
   <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
@@ -97,7 +97,7 @@
   <img alt="Lets encrypt" src="https://img.shields.io/badge/-Lets encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white" />
 </p>
 
-<p>Programming Languages and Backend Frameworks</p>
+<p>🧑‍💻Programming Languages and Backend Frameworks</p>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -108,7 +108,7 @@
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Moleculer" src="https://img.shields.io/badge/-Moleculer-3CAFCE?style=flat-square&logo=moleculer&logoColor=white" />
 </p>
-<p>AI-ML</p>
+<p>🤖 AI-ML</p>
 <p>	
   <img alt="Google Colab" src="https://img.shields.io/badge/-Google Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" /> 
   <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /> 
