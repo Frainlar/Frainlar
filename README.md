@@ -71,6 +71,7 @@
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
   <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" />
   <img alt="Protractor" src="https://img.shields.io/badge/-Protractor-ED163A?style=flat-square&logo=protractor&logoColor=white" />
+  <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
 </p>
 
 <p>DevOps, Infra & Security</p>
@@ -117,8 +118,11 @@
 </p>
 <h3>⚡Exploring on⚡</h3>
 <p>
+   <img alt="D Wave" src="https://img.shields.io/badge/-D Wave Systems-008CD7?style=flat-square&logo=dwavesystems&logoColor=white" />
+   <img alt="Qiskit" src="https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" />
    <img alt="Web3.js" src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
    <img alt="Hyperledger" src="https://img.shields.io/badge/-Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white" />
+   <img alt="Robot Framework" src="https://img.shields.io/badge/-Robot Framework-000000?style=flat-square&logo=robotframework&logoColor=white" />
    <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" />
    <img alt="Go" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
    <img alt="Fast API" src="https://img.shields.io/badge/-Fast API-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -143,26 +147,7 @@
    <img alt="Apache Solr" src="https://img.shields.io/badge/-Solr-D9411E?style=flat-square&logo=apachesolr&logoColor=white" />
    <img alt="Elastic Stack" src="https://img.shields.io/badge/-Elastic Stack-005571?style=flat-square&logo=elasticstack&logoColor=white" />
    <img alt="Docusign" src="https://img.shields.io/badge/-Docusign-FFCC22?style=flat-square&logo=docusign&logoColor=white" />
-   
-   
-   
-   
-   
-   <img alt="Robot Framework" src="https://img.shields.io/badge/-Robot Framework-000000?style=flat-square&logo=robotframework&logoColor=white" />
-
 </p>
-
-<h3>⚡Researching using⚡</h3>
-<p>
-   <img alt="Academia" src="https://img.shields.io/badge/-Academia-41454a?style=flat-square&logo=academia&logoColor=white" />
-   <img alt="D Wave" src="https://img.shields.io/badge/-D Wave Systems-008CD7?style=flat-square&logo=dwavesystems&logoColor=white" />
-   <img alt="Google Scholar" src="https://img.shields.io/badge/-Google Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" />
-   <img alt="IEEE" src="https://img.shields.io/badge/-IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" />
-   <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
-   <img alt="Qiskit" src="https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" />
-</p>
-
-
 
 ### <b>⚡📈 My GitHub Statistics 📈⚡</b>
 
