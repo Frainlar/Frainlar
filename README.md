@@ -26,53 +26,50 @@
   <img alt="pwa" src="https://img.shields.io/badge/-PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
   <img alt="electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
 </p>
-<hr/>
-<p>Design Libraries</p>
+
+<p>Design Tools & Libraries</p>
 <p>
+  <img alt="figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Ant Design" src="https://img.shields.io/badge/-Ant Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
   <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra UI-319795?style=flat-square&logo=chakraui&logoColor=white" />	
   <img alt="Material Design" src="https://img.shields.io/badge/-Material Design-757575?style=flat-square&logo=materialdesign&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
-<p>
-  <img alt="sap" src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
-  
-  
-  
-  
-  
-  
-  
-  
-	
 
-  
-  <img alt="algolia" src="https://img.shields.io/badge/-Algolia-5468ff?style=flat-square&logo=algolia&logoColor=white" />
+<p>Libraries</p>
+<p>
   <img alt="Apache ECharts" src="https://img.shields.io/badge/-Apache E Charts-5468ff?style=flat-square&logo=apacheecharts&logoColor=white" />
   <img alt="CK Editor" src="https://img.shields.io/badge/-CK Editor 4-0287D0?style=flat-square&logo=ckeditor4&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="hyper" src="https://img.shields.io/badge/-Hyper-000000?style=flat-square&logo=hyper&logoColor=white" />
   <img alt="i18next" src="https://img.shields.io/badge/-i18next-26A69A?style=flat-square&logo=i18next&logoColor=white" />
-  
+  <img alt="algolia" src="https://img.shields.io/badge/-Algolia-5468ff?style=flat-square&logo=algolia&logoColor=white" />
+  <img alt="hyper" src="https://img.shields.io/badge/-Hyper-000000?style=flat-square&logo=hyper&logoColor=white" />
   <img alt="WebRTC" src="https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
   <img alt="WebdriverIO" src="https://img.shields.io/badge/-WebdriverIO-EA5906?style=flat-square&logo=webdriverio&logoColor=white" />
-  
+  <img alt="JSON Web Tokens" src="https://img.shields.io/badge/-JSON Web Tokens-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+</p>
+<p>Platforms</p>
+<p>
+  <img alt="sap" src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+</p>
+<p>Databases</p>
+<p>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Neo4j" src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+<p>Tools</p>
+<p>
+  <img alt="Apollo GraphQL" src="https://img.shields.io/badge/-Apollo GraphQL-311C87?style=flat-square&logo=apollographql&logoColor=white" />
   <img alt="Strapi CMS" src="https://img.shields.io/badge/-Strapi CMS-2F2E8B?style=flat-square&logo=strapi&logoColor=white" />
-  
   <img alt="Appwrite" src="https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white" />
   <img alt="Auth0" src="https://img.shields.io/badge/-Auth0-F02E65?style=flat-square&logo=auth0&logoColor=white" />
   <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Google Analytics" src="https://img.shields.io/badge/-Google Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
   <img alt="Google Search Console" src="https://img.shields.io/badge/-Google Search Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white" />
-  <img alt="JSON Web Tokens" src="https://img.shields.io/badge/-JSON Web Tokens-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-	
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Apollo GraphQL" src="https://img.shields.io/badge/-Apollo GraphQL-311C87?style=flat-square&logo=apollographql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Neo4j" src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   
   <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -82,7 +79,7 @@
   <img alt="Chef" src="https://img.shields.io/badge/-Chef-F09820?style=flat-square&logo=chef&logoColor=white" />
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img alt="Helm" src="https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
@@ -120,13 +117,6 @@
   <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /> 
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-
- 
-  
-  
- 
-  
-  
 </p>
 
 <h3>⚡Researching using⚡</h3>
