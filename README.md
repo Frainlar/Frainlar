@@ -6,7 +6,7 @@
 
 <p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="120" />
-</p>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/EdsonFrainlar?label=Follow)](https://twitter.com/intent/follow?screen_name=EdsonFrainlar)
 
 [![Linkedin: edson-frainlar](https://img.shields.io/badge/edson-frainlar?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edson-frainlar/)](https://www.linkedin.com/in/edson-frainlar/)
@@ -17,6 +17,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Frainlar.Frainlar)
 
+</p>
 
 ### <b>⚡📈 My GitHub Statistics 📈⚡</b>
 
