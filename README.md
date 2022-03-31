@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<p>Welcome to my page! </br> I'm Edson Frainlar, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Chennai, India</b>.</p> 
+<p>Welcome to my page! </br> I'm Edson Frainlar, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/> <b>Chennai, India</b>.</p> 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Product Engineer and DevSecOps Engineer at <a href="http://www.ktern.com">KTern.AI</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
