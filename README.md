@@ -37,19 +37,7 @@
   <img alt="Neo4j" src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
-<p>Libraries</p>
-<p>
-  <img alt="Apache ECharts" src="https://img.shields.io/badge/-Apache E Charts-5468ff?style=flat-square&logo=apacheecharts&logoColor=white" />
-  <img alt="CK Editor" src="https://img.shields.io/badge/-CK Editor 4-0287D0?style=flat-square&logo=ckeditor4&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="i18next" src="https://img.shields.io/badge/-i18next-26A69A?style=flat-square&logo=i18next&logoColor=white" />
-  <img alt="algolia" src="https://img.shields.io/badge/-Algolia-5468ff?style=flat-square&logo=algolia&logoColor=white" />
-  <img alt="hyper" src="https://img.shields.io/badge/-Hyper-000000?style=flat-square&logo=hyper&logoColor=white" />
-  <img alt="WebRTC" src="https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
-  <img alt="WebdriverIO" src="https://img.shields.io/badge/-WebdriverIO-EA5906?style=flat-square&logo=webdriverio&logoColor=white" />
-  <img alt="JSON Web Tokens" src="https://img.shields.io/badge/-JSON Web Tokens-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-</p>
-<p>Platforms</p>
+<p>Platforms & Tools</p>
 <p>
   <img alt="sap" src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
@@ -57,46 +45,10 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+  <img alt="hyper" src="https://img.shields.io/badge/-Hyper-000000?style=flat-square&logo=hyper&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-</p>
-
-<p>DevOps</p>
-<p>
-  <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img alt="Jenkins X" src="https://img.shields.io/badge/-Jenkins X-73C3D5?style=flat-square&logo=jenkinsx&logoColor=white" />
-</p>
-<p>Infrastructure</p>
-<p>
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Chef" src="https://img.shields.io/badge/-Chef-F09820?style=flat-square&logo=chef&logoColor=white" />
-  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Helm" src="https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
-  <img alt="Ingress" src="https://img.shields.io/badge/-Ingress-783CBD?style=flat-square&logo=ingress&logoColor=white" />
-  <img alt="Istio" src="https://img.shields.io/badge/-Istio-466BB0?style=flat-square&logo=istio&logoColor=white" />
-  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-</p>
-<p>Testing</p>
-<p>
-  <img alt="Chai" src="https://img.shields.io/badge/-Chai-A30701?style=flat-square&logo=chai&logoColor=white" />
-  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
-  <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" />
-  <img alt="Protractor" src="https://img.shields.io/badge/-Protractor-ED163A?style=flat-square&logo=protractor&logoColor=white" />
-</p>
-<p>Security</p>
-<p>
-   <img alt="Lets encrypt" src="https://img.shields.io/badge/-Lets encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white" />
-</p>
-<p>Tools</p>
-<p>
+  <img alt="WebRTC" src="https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+  <img alt="WebdriverIO" src="https://img.shields.io/badge/-WebdriverIO-EA5906?style=flat-square&logo=webdriverio&logoColor=white" />
   <img alt="Apollo GraphQL" src="https://img.shields.io/badge/-Apollo GraphQL-311C87?style=flat-square&logo=apollographql&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
   <img alt="Nrwl" src="https://img.shields.io/badge/-Nrwl-96D7E8?style=flat-square&logo=nrwl&logoColor=white" />
@@ -109,6 +61,39 @@
   <img alt="Google Analytics" src="https://img.shields.io/badge/-Google Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
   <img alt="Google Search Console" src="https://img.shields.io/badge/-Google Search Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white" />
   <img alt="Microsoft SharePoint" src="https://img.shields.io/badge/-Microsoft SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white" />
+  <img alt="JSON Web Tokens" src="https://img.shields.io/badge/-JSON Web Tokens-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img alt="Apache ECharts" src="https://img.shields.io/badge/-Apache E Charts-5468ff?style=flat-square&logo=apacheecharts&logoColor=white" />
+  <img alt="CK Editor" src="https://img.shields.io/badge/-CK Editor 4-0287D0?style=flat-square&logo=ckeditor4&logoColor=white" />
+  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+  <img alt="i18next" src="https://img.shields.io/badge/-i18next-26A69A?style=flat-square&logo=i18next&logoColor=white" />
+  <img alt="algolia" src="https://img.shields.io/badge/-Algolia-5468ff?style=flat-square&logo=algolia&logoColor=white" />
+  <img alt="Chai" src="https://img.shields.io/badge/-Chai-A30701?style=flat-square&logo=chai&logoColor=white" />
+  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+  <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" />
+  <img alt="Protractor" src="https://img.shields.io/badge/-Protractor-ED163A?style=flat-square&logo=protractor&logoColor=white" />
+</p>
+
+<p>DevOps, Infra & Security</p>
+<p>
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img alt="Jenkins X" src="https://img.shields.io/badge/-Jenkins X-73C3D5?style=flat-square&logo=jenkinsx&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Chef" src="https://img.shields.io/badge/-Chef-F09820?style=flat-square&logo=chef&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Helm" src="https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+  <img alt="Ingress" src="https://img.shields.io/badge/-Ingress-783CBD?style=flat-square&logo=ingress&logoColor=white" />
+  <img alt="Istio" src="https://img.shields.io/badge/-Istio-466BB0?style=flat-square&logo=istio&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img alt="Lets encrypt" src="https://img.shields.io/badge/-Lets encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white" />
 </p>
 
 <p>Programming Languages and Backend Frameworks</p>
@@ -129,17 +114,6 @@
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 </p>
-
-<h3>⚡Researching using⚡</h3>
-<p>
-   <img alt="Academia" src="https://img.shields.io/badge/-Academia-41454a?style=flat-square&logo=academia&logoColor=white" />
-   <img alt="D Wave" src="https://img.shields.io/badge/-D Wave Systems-008CD7?style=flat-square&logo=dwavesystems&logoColor=white" />
-   <img alt="Google Scholar" src="https://img.shields.io/badge/-Google Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" />
-   <img alt="IEEE" src="https://img.shields.io/badge/-IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" />
-   <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
-   <img alt="Qiskit" src="https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" />
-</p>
-
 <h3>⚡Exploring on⚡</h3>
 <p>
    <img alt="Adonisjs" src="https://img.shields.io/badge/-Adonis.js-220052?style=flat-square&logo=adonisjs&logoColor=white" />
@@ -171,6 +145,17 @@
    <img alt="Robot Framework" src="https://img.shields.io/badge/-Robot Framework-000000?style=flat-square&logo=robotframework&logoColor=white" />
    <img alt="Web3.js" src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
 </p>
+
+<h3>⚡Researching using⚡</h3>
+<p>
+   <img alt="Academia" src="https://img.shields.io/badge/-Academia-41454a?style=flat-square&logo=academia&logoColor=white" />
+   <img alt="D Wave" src="https://img.shields.io/badge/-D Wave Systems-008CD7?style=flat-square&logo=dwavesystems&logoColor=white" />
+   <img alt="Google Scholar" src="https://img.shields.io/badge/-Google Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" />
+   <img alt="IEEE" src="https://img.shields.io/badge/-IEEE-00629B?style=flat-square&logo=ieee&logoColor=white" />
+   <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+   <img alt="Qiskit" src="https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" />
+</p>
+
 
 
 ### <b>⚡📈 My GitHub Statistics 📈⚡</b>
