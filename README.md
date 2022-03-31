@@ -25,6 +25,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frainlar&hide=TeX&layout=compact)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
 <h3>⚡Things I code with⚡</h3>
 <p>🪄Front End Frameworks</p>
 <p>
