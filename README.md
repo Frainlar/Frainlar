@@ -27,7 +27,7 @@
   <img alt="electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
 </p>
 
-<p>Design Tools & Libraries</p>
+<p>Design Frameworks</p>
 <p>
   <img alt="figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Ant Design" src="https://img.shields.io/badge/-Ant Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
@@ -53,12 +53,44 @@
   <img alt="sap" src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 </p>
 <p>Databases</p>
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Neo4j" src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+<p>DevOps</p>
+<p>
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img alt="Jenkins X" src="https://img.shields.io/badge/-Jenkins X-73C3D5?style=flat-square&logo=jenkinsx&logoColor=white" />
+</p>
+<p>Infrastructure</p>
+<p>
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Chef" src="https://img.shields.io/badge/-Chef-F09820?style=flat-square&logo=chef&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Helm" src="https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+  <img alt="Ingress" src="https://img.shields.io/badge/-Ingress-783CBD?style=flat-square&logo=ingress&logoColor=white" />
+  <img alt="Istio" src="https://img.shields.io/badge/-Istio-466BB0?style=flat-square&logo=istio&logoColor=white" />
+</p>
+<p>Testing</p>
+<p>
+  <img alt="Chai" src="https://img.shields.io/badge/-Chai-A30701?style=flat-square&logo=chai&logoColor=white" />
+  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+  <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" />
+</p>
+<p>Security</p>
+<p>
+   <img alt="Lets encrypt" src="https://img.shields.io/badge/-Lets encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white" />
 </p>
 <p>Tools</p>
 <p>
@@ -69,30 +101,20 @@
   <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
   <img alt="Google Analytics" src="https://img.shields.io/badge/-Google Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
   <img alt="Google Search Console" src="https://img.shields.io/badge/-Google Search Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white" />
+  <img alt="Microsoft SharePoint" src="https://img.shields.io/badge/-Microsoft SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
   
-  <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Chai" src="https://img.shields.io/badge/-Chai-A30701?style=flat-square&logo=chai&logoColor=white" />
-  <img alt="Chef" src="https://img.shields.io/badge/-Chef-F09820?style=flat-square&logo=chef&logoColor=white" />
-  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 
-  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img alt="Helm" src="https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Ingress" src="https://img.shields.io/badge/-Ingress-783CBD?style=flat-square&logo=ingress&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Istio" src="https://img.shields.io/badge/-Istio-466BB0?style=flat-square&logo=istio&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img alt="Jenkins X" src="https://img.shields.io/badge/-Jenkins X-73C3D5?style=flat-square&logo=jenkinsx&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Lets encrypt" src="https://img.shields.io/badge/-Lets encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white" />
-  <img alt="Microsoft SharePoint" src="https://img.shields.io/badge/-Microsoft SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white" />
-  <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+  
+  
+  
+
+  
+  
+
+  
+
+
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="Nrwl" src="https://img.shields.io/badge/-Nrwl-96D7E8?style=flat-square&logo=nrwl&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
