@@ -21,8 +21,10 @@
 <img width="400" align="left" height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Frainlar&show_icons=true&locale=en" alt="Frainlar" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frainlar&hide=TeX&layout=compact)
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frainlar&hide=TeX&layout=compact)
+  ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=frainlar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+</p>
 
 <h3>⚡Things I code with⚡</h3>
 <p>🪄Front End Frameworks</p>
