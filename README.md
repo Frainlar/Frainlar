@@ -112,38 +112,44 @@
   <img alt="Google Colab" src="https://img.shields.io/badge/-Google Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" /> 
   <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /> 
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img alt="Dialogflow" src="https://img.shields.io/badge/-Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white" />
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 </p>
 <h3>⚡Exploring on⚡</h3>
 <p>
+   <img alt="Web3.js" src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
+   <img alt="Hyperledger" src="https://img.shields.io/badge/-Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white" />
+   <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" />
+   <img alt="Go" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
+   <img alt="Fast API" src="https://img.shields.io/badge/-Fast API-009688?style=flat-square&logo=fastapi&logoColor=white" />
    <img alt="Adonisjs" src="https://img.shields.io/badge/-Adonis.js-220052?style=flat-square&logo=adonisjs&logoColor=white" />
    <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-3ddc84?style=flat-square&logo=androidstudio&logoColor=white" />
+   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
    <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-ee0000?style=flat-square&logo=ansible&logoColor=white" />
-   <img alt="Apache Airflow" src="https://img.shields.io/badge/-Apache Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-   <img alt="Apache Cassandra" src="https://img.shields.io/badge/-Apache Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" />
-   <img alt="Apache Druid" src="https://img.shields.io/badge/-Apache Druid-29F1FB?style=flat-square&logo=apachedruid&logoColor=white" />
-   <img alt="Apache Flink" src="https://img.shields.io/badge/-Apache Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white" />
-   <img alt="Apache Hadoop" src="https://img.shields.io/badge/-Apache Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white" />
-   <img alt="Apache Hive" src="https://img.shields.io/badge/-Apache Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=white" />
-   <img alt="Apache Pulsar" src="https://img.shields.io/badge/-Apache Pulsar-188FFF?style=flat-square&logo=apachepulsar&logoColor=white" />
-   <img alt="Apache RocketMQ" src="https://img.shields.io/badge/-Apache RocketMQ-D77310?style=flat-square&logo=apacherocketmq&logoColor=white" />
-   <img alt="Apache Solr" src="https://img.shields.io/badge/-Apache Solr-D9411E?style=flat-square&logo=apachesolr&logoColor=white" />
-   <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-   <img alt="ArangoDB" src="https://img.shields.io/badge/-ArangoDB-DDE072?style=flat-square&logo=arangodb&logoColor=white" />
-   <img alt="Clickhouse" src="https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=white" />
    <img alt="CNCF" src="https://img.shields.io/badge/-CNCF-231F20?style=flat-square&logo=cncf&logoColor=white" />
    <img alt="Consul" src="https://img.shields.io/badge/-Consul-F24C53?style=flat-square&logo=consul&logoColor=white" />
-   <img alt="Dialogflow" src="https://img.shields.io/badge/-Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white" />
-   <img alt="Docusign" src="https://img.shields.io/badge/-Docusign-FFCC22?style=flat-square&logo=docusign&logoColor=white" />
-   <img alt="Elastic Stack" src="https://img.shields.io/badge/-Elastic Stack-005571?style=flat-square&logo=elasticstack&logoColor=white" />
-   <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" />
-   <img alt="Fast API" src="https://img.shields.io/badge/-Fast API-009688?style=flat-square&logo=fastapi&logoColor=white" />
-   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-   <img alt="Go" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
-   <img alt="Hyperledger" src="https://img.shields.io/badge/-Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white" />
+   <img alt="Airflow" src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+   <img alt="RocketMQ" src="https://img.shields.io/badge/-RocketMQ-D77310?style=flat-square&logo=apacherocketmq&logoColor=white" />
    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+   <img alt="Cassandra" src="https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" />
+   <img alt="ArangoDB" src="https://img.shields.io/badge/-ArangoDB-DDE072?style=flat-square&logo=arangodb&logoColor=white" />
+   <img alt="Clickhouse" src="https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=white" />
+   <img alt="Druid" src="https://img.shields.io/badge/-Druid-29F1FB?style=flat-square&logo=apachedruid&logoColor=white" />
+   <img alt="Flink" src="https://img.shields.io/badge/-Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white" />
+   <img alt="Hadoop" src="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white" />
+   <img alt="Apache Hive" src="https://img.shields.io/badge/-Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=white" />
+   <img alt="Apache Pulsar" src="https://img.shields.io/badge/-Pulsar-188FFF?style=flat-square&logo=apachepulsar&logoColor=white" />
+   <img alt="Apache Spark" src="https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+   <img alt="Apache Solr" src="https://img.shields.io/badge/-Solr-D9411E?style=flat-square&logo=apachesolr&logoColor=white" />
+   <img alt="Elastic Stack" src="https://img.shields.io/badge/-Elastic Stack-005571?style=flat-square&logo=elasticstack&logoColor=white" />
+   <img alt="Docusign" src="https://img.shields.io/badge/-Docusign-FFCC22?style=flat-square&logo=docusign&logoColor=white" />
+   
+   
+   
+   
+   
    <img alt="Robot Framework" src="https://img.shields.io/badge/-Robot Framework-000000?style=flat-square&logo=robotframework&logoColor=white" />
-   <img alt="Web3.js" src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
+
 </p>
 
 <h3>⚡Researching using⚡</h3>
