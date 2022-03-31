@@ -10,6 +10,7 @@
 
 <h3>⚡Things I code with⚡</h3>
 <p>
+  <img alt="sap" src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="angular universal" src="https://img.shields.io/badge/-Angular Universal-00ACC1?style=flat-square&logo=angularuniversal&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -35,6 +36,10 @@
   <img alt="hyper" src="https://img.shields.io/badge/-Hyper-000000?style=flat-square&logo=hyper&logoColor=white" />
   <img alt="i18next" src="https://img.shields.io/badge/-i18next-26A69A?style=flat-square&logo=i18next&logoColor=white" />
   <img alt="Material Design" src="https://img.shields.io/badge/-Material Design-757575?style=flat-square&logo=materialdesign&logoColor=white" />
+  <img alt="WebRTC" src="https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+  <img alt="WebdriverIO" src="https://img.shields.io/badge/-WebdriverIO-EA5906?style=flat-square&logo=webdriverio&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Strapi CMS" src="https://img.shields.io/badge/-Strapi CMS-2F2E8B?style=flat-square&logo=strapi&logoColor=white" />
   
   <img alt="Appwrite" src="https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white" />
   <img alt="Auth0" src="https://img.shields.io/badge/-Auth0-F02E65?style=flat-square&logo=auth0&logoColor=white" />
@@ -49,6 +54,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Neo4j" src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   
   <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -77,6 +83,11 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
   <img alt="Protractor" src="https://img.shields.io/badge/-Protractor-ED163A?style=flat-square&logo=protractor&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="Vault" src="https://img.shields.io/badge/-Vault-000000?style=flat-square&logo=vault&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="Sentry" src="https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Express js" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
@@ -89,6 +100,8 @@
 	
   <img alt="Google Colab" src="https://img.shields.io/badge/-Google Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" /> 
   <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /> 
+  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 
  
   
@@ -136,6 +149,8 @@
    <img alt="Go" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
    <img alt="Hyperledger" src="https://img.shields.io/badge/-Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white" />
    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+   <img alt="Robot Framework" src="https://img.shields.io/badge/-Robot Framework-000000?style=flat-square&logo=robotframework&logoColor=white" />
+   <img alt="Web3.js" src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
 </p>
 
 
