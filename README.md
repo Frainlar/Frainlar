@@ -22,6 +22,7 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frainlar&hide=TeX&layout=compact)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 <h3>⚡Things I code with⚡</h3>
 <p>🪄Front End Frameworks</p>
