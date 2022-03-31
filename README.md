@@ -8,6 +8,17 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://edsonfrainlar.com/)](https://edsonfrainlar.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=Frainlar.Frainlar)
 
+### <b>⚡📈 My GitHub Statistics 📈⚡</b>
+
+<p align="left">
+<img width="400" align="left" height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frainlar&" alt="Frainlar" />
+<img width="400" align="left" height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Frainlar&show_icons=true&locale=en" alt="Frainlar" />
+</p>
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frainlar&hide=TeX&layout=compact)
+
 <h3>⚡Things I code with⚡</h3>
 <p>🪄Front End Frameworks</p>
 <p>
@@ -148,13 +159,3 @@
    <img alt="Elastic Stack" src="https://img.shields.io/badge/-Elastic Stack-005571?style=flat-square&logo=elasticstack&logoColor=white" />
    <img alt="Docusign" src="https://img.shields.io/badge/-Docusign-FFCC22?style=flat-square&logo=docusign&logoColor=white" />
 </p>
-
-### <b>⚡📈 My GitHub Statistics 📈⚡</b>
-
-<p align="left">
-<img width="400" align="left" height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frainlar&" alt="Frainlar" />
-<img width="400" align="left" height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Frainlar&show_icons=true&locale=en" alt="Frainlar" />
-</p>
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
