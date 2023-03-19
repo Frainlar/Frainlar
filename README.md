@@ -3,6 +3,8 @@
 <p>Welcome to my page! </br> I'm Edson Frainlar, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/> <b>Chennai, India</b>.</p> 
 
 <p><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em><p>
+  
+<img width="100%" height="auto" src="https://bit.ly/3BRyuhT" height="175px"/>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/EdsonFrainlar?label=Follow)](https://twitter.com/intent/follow?screen_name=EdsonFrainlar)
 [![Linkedin: edson-frainlar](https://img.shields.io/badge/edson-frainlar?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edson-frainlar/)](https://www.linkedin.com/in/edson-frainlar/)
