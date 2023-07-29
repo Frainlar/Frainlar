@@ -18,8 +18,6 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=frainlar&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Frainlar&custom_title=Edson%27s%20activity%20graph&theme=github-light&hide_border=true)]([https://github.com/ashutosh00710/github-readme-activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=Frainlar&custom_title=Edson%27s%20activity%20graph&theme=github-light&hide_border=true))
-
 <p align="left">
 <img width="400" align="left" height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frainlar&" alt="Frainlar" />
 <img width="400" align="left" height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=frainlar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&locale=en" alt="Frainlar" />
