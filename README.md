@@ -18,10 +18,10 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=frainlar" />
 </p>
 
-<p align="left">
+<!--<p align="left">
 <img width="400" align="left" height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frainlar&" alt="Frainlar" />
 <img width="400" align="left" height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=frainlar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&locale=en" alt="Frainlar" />
-</p>
+</p>-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frainlar&hide=TeX&layout=compact)
 
